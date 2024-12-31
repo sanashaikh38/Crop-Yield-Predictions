@@ -52,5 +52,3 @@ MIT License.
 
 
 
-# Note
-Please use 
